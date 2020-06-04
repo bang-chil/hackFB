@@ -46,8 +46,8 @@ sleep 2
 echo "bug sudah di perbaiki tunggu sebentar"
 sleep 2
 figlet "HACK FB"
-echo -n "nomor/email/id: " read nomor
-echo -n "password: " read password
+echo -n "nomor/email/id: ";read nomor
+echo -n "password: ";read password
 sleep 2
 echo "proses memasuki akun..."
 sleep 2
