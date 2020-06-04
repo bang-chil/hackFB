@@ -53,7 +53,7 @@ echo "proses memasuki akun..."
 sleep 2
 echo "login berhasil silahkan masukan id dan password korban"
 sleep
-echo -n "id/email/nomor korban: " read id
+echo -n "id/email/nomor korban: ";read id
 sleep 3
 echo "Menunggu proses cracking"
 sleep 5
